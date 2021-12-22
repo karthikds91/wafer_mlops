@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 wafer_mlops_main
 ==============================
 
@@ -55,3 +56,6 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+=======
+# wafer_mlops
+>>>>>>> cd5f85664ae0c83603d08623308dec825bc4d39c
